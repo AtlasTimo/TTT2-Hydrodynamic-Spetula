@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "hydrodynamic_spetula/hydrodynamic_spetula_mats/texture"
+	"$bumpmap" "hydrodynamic_spetula/hydrodynamic_spetula_mats/normal"
+}
